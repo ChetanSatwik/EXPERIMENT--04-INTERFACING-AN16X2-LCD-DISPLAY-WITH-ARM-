@@ -223,7 +223,8 @@ int main(void)
 ```
 ## Output screen shots of proteus  :
 
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/580f46f5-8438-49f9-a11b-d17494f80103" />
+<img width="1920" height="1200" alt="EXP4" src="https://github.com/user-attachments/assets/d39244a2-05a1-4836-9b3a-f23901a9a78a" />
+
 
  
  
