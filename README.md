@@ -207,10 +207,10 @@ int main(void)
     );
 
     Lcd_cursor(&lcd, 0, 1);
-    Lcd_string(&lcd, "RAHA PRIYA DHARSHINI M");
+    Lcd_string(&lcd, "N V Chetan Satwik");
 
     Lcd_cursor(&lcd, 1, 1);
-    Lcd_string(&lcd, "212224240124");
+    Lcd_string(&lcd, "212224240100");
 
     while (1)
     {
